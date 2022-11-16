@@ -3,7 +3,7 @@
 
 HTML5 has some elements that identify different content areas. These elements make your HTML easier to read and help with Search Engine Optimization (SEO) and accessibility.
 
-Ex <code><main></code> 
+Ex <code>< main ></code> 
   
 - Nesting putting one element inside another
 
